@@ -1,0 +1,29 @@
+{
+ "name": "거름망",
+ "short_name": "거름망",
+ "lang": "ko",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#f8f9fb",
+ "theme_color": "#16181d",
+ "description": "릴스를 DM으로 보내면 장소·가격·끝난 이벤트까지 확인해서 정리해 주는 거름망",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512-maskable.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
